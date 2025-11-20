@@ -35,6 +35,3 @@ int main() {
     return 0;
 }
 ```
-
-![my cat](https://imgur.com/7n6QU9p)
-my cat
