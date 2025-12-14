@@ -11,7 +11,7 @@ class toilet:
         if RelaxingLevel < 50:
             return "i like it actualy"
       	
-        return "but the way..."
+        return "buy the way..."
     
 if __name__ == "__main__":
     RelaxingLevel = 0
